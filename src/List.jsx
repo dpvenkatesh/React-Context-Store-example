@@ -27,8 +27,7 @@ const List = () => {
                 });
               }}
             >
-              {" "}
-              Remove{" "}
+              Remove
             </button>
             <button
               onClick={() =>

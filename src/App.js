@@ -70,7 +70,8 @@ export const taskItemInfo = [
     mediaType: "chat",
     title: "Mihael Varificantare",
     queue: "IRV_quelle_11",
-    timer: "01:10:25"
+    timer: "01:10:25",
+    selected: true
   }
 ];
 
